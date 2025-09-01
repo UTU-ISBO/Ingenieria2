@@ -87,6 +87,3 @@ La evaluación se diseña bajo el **enfoque por competencias**, considerando tan
 - **Semana 16**: **Segundo Parcial** (60 pts).  
 
 ---
-
-✍️ **Nota final**:  
-Este documento responde tanto a las **exigencias institucionales** como a los **criterios pedagógicos de los inspectores**, priorizando la adquisición de competencias en un entorno práctico, colaborativo y alineado con los estándares internacionales de la Ingeniería de Software.
